@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : ""
+title                    : "Muhammad Najib"
 title_separator          : "-"
-name                     : &name "Muhammad Najib"
+#name                     : &name "Muhammad Najib"
 description              : &description "personal description"
 url                      : https://valvestate.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
