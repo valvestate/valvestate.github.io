@@ -1,9 +1,9 @@
 ---
 title: "Equilibrium Design for Concurrent Games"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink:
 excerpt: ''
-date: 2009-10-01
+date: 29-08-2019
 venue: 'CONCUR 2019'
 paperurl: 'http://valvestate.github.io/files/cocnur19.pdf'
 citation: ''
