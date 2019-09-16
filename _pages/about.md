@@ -18,7 +18,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 
 Publications
 ======
-+ **Equilibrium Design for Concurrent Games**. In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
++ [**Equilibrium Design for Concurrent Games**](/publication/2010-10-01-paper-title-number-2). In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
 + **On Computational Tractability for Rational Verification**. In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)*, Macao, China, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://www.ijcai.org/proceedings/2019/0047.pdf)
 + **EVE: A Tool for Temporal Equilibrium Analysis**. In *Proceedings of the 16th International Symposium on Automated Technology for Verification and Analysis (ATVA-2018)*, Los Angeles, October 2018. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://ora.ox.ac.uk/objects/uuid:4275d79a-e627-46ee-bf56-4cb240499be3/download_file?file_format=pdf&safe_filename=main.pdf&type_of_work=Conference+item)
 
