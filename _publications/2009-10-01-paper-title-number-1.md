@@ -1,15 +1,33 @@
 ---
-title: "Paper Title Number 1"
+title: "Equilibrium Design for Concurrent Games"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'CONCUR 2019'
+paperurl: 'http://valvestate.github.io/files/cocnur19.pdf'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In game theory, *mechanism design* is concerned with the design of
+incentives so that a desired outcome of the game can be achieved. In
+this paper, we study the design of incentives so that a desirable
+equilibrium is obtained, for instance, an equilibrium satisfying a given
+temporal logic property---a problem that we call *equilibrium design*.
+We base our study on a framework where system specifications are
+represented as temporal logic formulae, games as quantitative concurrent
+game structures, and players' goals as mean-payoff objectives. In
+particular, we consider system specifications given by LTL and GR(1)
+formulae, and show that implementing a mechanism to ensure that a given
+temporal logic property is satisfied on some/every Nash equilibrium of
+the game, whenever such a mechanism exists, can be done in PSPACE for
+LTL properties and in NP/$\Sigma^P_2$ for GR(1) specifications. We also
+study the complexity of various related decision and optimisation
+problems, such as optimality and uniqueness of solutions, and show that
+the complexities of all such problems lie within the polynomial
+hierarchy. As an application, equilibrium design can be used as an
+alternative solution to the rational synthesis and verification problems
+for concurrent games with mean-payoff objectives whenever no solution
+exists, or as a technique to repair, whenever possible, concurrent games
+with undesirable rational outcomes (Nash equilibria) in an optimal way.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://valvestate.github.io/files/concur19.pdf)
