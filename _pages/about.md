@@ -18,14 +18,14 @@ My current research is in the use of formal techniques for verifying and reasoni
 
 Publications
 ======
-+ J. Gutierrez, M. Najib, G. Perelli, and M. Wooldridge. **Equilibrium Design for Concurrent Games**. In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
-+ J. Gutierrez, M. Najib, G. Perelli, and M. Wooldridge. **On Computational Tractability for Rational Verification**. In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)*, Macao, China, August 2019.
-[PDF](https://www.ijcai.org/proceedings/2019/0047.pdf)
-+ J. Gutierrez, M. Najib, G. Perelli, and M. Wooldridge. **EVE: A Tool for Temporal Equilibrium Analysis**. In *Proceedings of the 16th International Symposium on Automated Technology for Verification and Analysis (ATVA-2018)*, Los Angeles, October 2018. [PDF](https://ora.ox.ac.uk/objects/uuid:4275d79a-e627-46ee-bf56-4cb240499be3/download_file?file_format=pdf&safe_filename=main.pdf&type_of_work=Conference+item)
++ **Equilibrium Design for Concurrent Games**. In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
++ **On Computational Tractability for Rational Verification**. In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)*, Macao, China, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://www.ijcai.org/proceedings/2019/0047.pdf)
++ **EVE: A Tool for Temporal Equilibrium Analysis**. In *Proceedings of the 16th International Symposium on Automated Technology for Verification and Analysis (ATVA-2018)*, Los Angeles, October 2018. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://ora.ox.ac.uk/objects/uuid:4275d79a-e627-46ee-bf56-4cb240499be3/download_file?file_format=pdf&safe_filename=main.pdf&type_of_work=Conference+item)
 
 Talks
 =====
-
++ **Verifying and Designing Equilibria in Multiagent Systems**. Presented at 2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19), Amsterdam, August 2019.
++ **Some Approaches to Rational Verification in Multiagent Systems**. Presented at 1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17), Berlin, September 2017
 
 Misc
 =====
