@@ -20,5 +20,5 @@ foundation of our approaches. We then discuss the ability of current techniques/
 perform rational verification and present some methods we have developed to expand the
 limits. We conclude with our ongoing work and possible future directions.
 
-[Extended Abstract](/files/radical17.pdf)
-[Slides](/files/radical17_slides.pdf)
+- [Extended Abstract](/files/radical17.pdf)
+- [Slides](/files/radical17_slides.pdf)
