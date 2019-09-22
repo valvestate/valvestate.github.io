@@ -19,3 +19,6 @@ which the problem of rational verification is computationally tractable. In part
 possible to reduce the complexity from 2EXPTIME to fixed-parameter tractable. Finally,
 I will also introduce a concept called equilibrium design which is concerned in the design
 of incentives so that a desirable equilibrium is obtained.
+
+- [Extended abstract](/files/radical19.pdf)
+- [Slides](/files/radical19_slides.pdf)
