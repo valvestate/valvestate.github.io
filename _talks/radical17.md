@@ -19,3 +19,6 @@ tool implementing the paradigm. We begin by introducing a formal framework as th
 foundation of our approaches. We then discuss the ability of current techniques/tools to
 perform rational verification and present some methods we have developed to expand the
 limits. We conclude with our ongoing work and possible future directions.
+
+[Extended Abstract](/files/radical17.pdf)
+[Slides](/files/radical17_slides.pdf)
