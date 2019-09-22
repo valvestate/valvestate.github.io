@@ -28,5 +28,5 @@ Publications
 
 Talks
 =====
-+ **Verifying and Designing Equilibria in Multiagent Systems**. Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, August 2019.
++ [**Verifying and Designing Equilibria in Multiagent Systems**](/talks/radical19). Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, August 2019.
 + [**Some Approaches to Rational Verification in Multiagent Systems**](/talks/radical17). Presented at *1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17)*, Berlin, September 2017
