@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-+ <span>*Doctor of Philosophy*</span>, Computer Science  
-University of Oxford, UK  
-Thesis: *Rational Verification in Multiagent Systems*  
++ <span>*Doctor of Philosophy*</span>, Computer Science<br>
+University of Oxford, UK<br>
+Thesis: *Rational Verification in Multiagent Systems*<br>
 Supervisors: Prof Michael Wooldrdige and Dr Julian Gutierrez
 
-+ <span>*Master of Science*</span>, Advanced Computer Science  
-University of Liverpool, UK
-Dissertation: *Argumentation and Trust*
++ <span>*Master of Science*</span>, Advanced Computer Science<br>
+University of Liverpool, UK<br>
+Dissertation: *Argumentation and Trust*<br>
 Supervisors: Prof Simon D. Parsons and Prof Paul E. Dunne
 
-+ <span>*Bachelor of Science*</span>, Informatics  
-Sepuluh Nopember Institute of Technology, Indonesia  
-Dissertation: *Combining Artificial Neural Network and Genetic Algorithm for Automobile Prices Prediction* (in Indonesian)  
++ <span>*Bachelor of Science*</span>, Informatics<br>
+Sepuluh Nopember Institute of Technology, Indonesia<br>
+Dissertation: *Combining Artificial Neural Network and Genetic Algorithm for Automobile Prices Prediction* (in Indonesian)<br>
 Supervisors: Rully Sulaiman and Yudhi Purwananto
 
 Industrial experience
 ======
-+ <span>*Samsung Electronics Indonesia*</span>
-R&D Software Engineer (Oct 2011–July 2014)
-Development of mass-production software system for set-top box products. Mainly worked within embedded systems environment such as Broadcom and MediaTek.  
++ <span>*Samsung Electronics Indonesia*</span><br>
+R&D Software Engineer (Oct 2011–July 2014)<br>
+Development of mass-production software system for set-top box products. Mainly worked within embedded systems environment such as Broadcom and MediaTek.<br>
 Projects:
   - MEO Portugal Telecom (Portugal)
   - Telmex Claro TV (Colombia)
