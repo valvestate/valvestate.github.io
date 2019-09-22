@@ -12,7 +12,7 @@ I'm a 4th-year DPhil/PhD student in computer science at the University of Oxford
 
 News
 =====
-+ **01/10/19:** I will be joining [Anthony Lin](https://anthonywlin.github.io/)'s group as a research associate at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany.
++ **01/10/19:** I will be joining [Anthony Lin](https://anthonywlin.github.io/)'s [Automatic Reasoning Group](http://arg.cs.uni-kl.de/en/) as a research associate at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany.
 
 
 Research Interests
