@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/radical17
 venue: "1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR 2017)"
-date: 2017-08-01
+date: 2017-09-04
 location: "Berlin, Germany"
 ---
 
