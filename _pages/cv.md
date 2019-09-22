@@ -16,7 +16,7 @@ University of Oxford, UK Oct 2015–present
 Thesis: *Rational Verification in Multiagent Systems*  
 Supervisors: Prof Michael Wooldrdige and Dr Julian Gutierrez
 
-+ <span>*Master of Science*</span> (Distinction), Advanced Computer
++ <span>*Master of Science*</span>, Advanced Computer
 Science  
 University of Liverpool, UK Sep 2014–Sep 2015  
 Dissertation: *Argumentation and Trust*  
