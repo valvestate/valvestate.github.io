@@ -1,6 +1,6 @@
 ---
 title: "SEVIA (SRML Games Equilibrium Verification via ISPL Analysis)"
-excerpt: ""
+excerpt: "This tool takes SRML file as an input and convert it to ISPL. It then runs MCMAS to check NE-Emptiness of the setting. Currently supporting memoryless fragment of SL."
 collection: portfolio
 ---
 
