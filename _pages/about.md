@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th-year DPhil/PhD student in computer science at the University of Oxford. Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
+I'm a 4th-year DPhil/PhD student in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
+
+News
+=====
++ **01/10/19:** I will be joining [Anthony Lin](https://anthonywlin.github.io/)'s group as a research associate at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany.
 
 
 Research Interests
@@ -26,6 +30,3 @@ Talks
 =====
 + **Verifying and Designing Equilibria in Multiagent Systems**. Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, August 2019.
 + **Some Approaches to Rational Verification in Multiagent Systems**. Presented at *1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17)*, Berlin, September 2017
-
-Misc
-=====
