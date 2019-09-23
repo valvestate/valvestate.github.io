@@ -14,7 +14,7 @@ Education
 + <span>*Doctor of Philosophy*</span>, Computer Science<br>
 University of Oxford, UK<br>
 Thesis: *Rational Verification in Multiagent Systems*<br>
-Supervisors: Prof Michael Wooldrdige and Dr Julian Gutierrez
+Supervisors: Prof Michael Wooldridge and Dr Julian Gutierrez
 
 + <span>*Master of Science*</span>, Advanced Computer Science<br>
 University of Liverpool, UK<br>
