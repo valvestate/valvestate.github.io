@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Muhammad Najib"
   avatar           : "mn.jpg"
-  bio              : "DPhil/PhD Candidate in Computer Science"
-  location         : "Oxford, UK"
-  employer         : "University of Oxford"
+  bio              : "Research Associate"
+  location         : "Kaiserslautern, Germany"
+  employer         : "Technische Universität Kaiserslautern"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=a_49dn0AAAAJ&hl=en"
-  email            : "mnajib@cs.ox.ac.uk"
+  email            : "najib@cs.uni-kl.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
