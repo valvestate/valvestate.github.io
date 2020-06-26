@@ -23,9 +23,10 @@ My current research is in the use of formal techniques for verifying and reasoni
 
 Publications
 ======
-+ [**Equilibrium Design for Concurrent Games**](/publication/2019-08-29-concur19). In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
-+ [**On Computational Tractability for Rational Verification**](/publication/2019-08-14-ijcai19). In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)*, Macao, China, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://www.ijcai.org/proceedings/2019/0047.pdf)
-+ [**EVE: A Tool for Temporal Equilibrium Analysis**](/publication/atva18). In *Proceedings of the 16th International Symposium on Automated Technology for Verification and Analysis (ATVA-2018)*, Los Angeles, October 2018. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](https://ora.ox.ac.uk/objects/uuid:4275d79a-e627-46ee-bf56-4cb240499be3/download_file?file_format=pdf&safe_filename=main.pdf&type_of_work=Conference+item)
++ [**Equilibrium Design for Concurrent Games**](/publication/2019-08-29-concur19). In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2019.22) [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
++ [**On Computational Tractability for Rational Verification**](/publication/2019-08-14-ijcai19). In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-2019)*, Macao, China, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.24963/ijcai.2019/47) [PDF](https://www.ijcai.org/proceedings/2019/0047.pdf)
++ [**EVE: A Tool for Temporal Equilibrium Analysis**](/publication/atva18). In *Proceedings of the 16th International Symposium on Automated Technology for Verification and Analysis (ATVA-2018)*, Los Angeles, October 2018. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.1007/978-3-030-01090-4_35
+) [PDF](https://ora.ox.ac.uk/objects/uuid:4275d79a-e627-46ee-bf56-4cb240499be3/download_file?file_format=pdf&safe_filename=main.pdf&type_of_work=Conference+item)
 
 Talks
 =====
