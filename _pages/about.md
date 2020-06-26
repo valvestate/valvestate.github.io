@@ -24,7 +24,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 Publications
 ======
 ## 2020
-+ [**Automated Temporal Equilibrium Analysis: Verification and Synthesis of Multi-Player Games**](). In *Artificial Intelligence*. 2020. In press. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.1016/j.artint.2020.103353) [PDF]()
++ [**Automated Temporal Equilibrium Analysis: Verification and Synthesis of Multi-Player Games**](/publication/aij20). In *Artificial Intelligence*. 2020. In press. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.1016/j.artint.2020.103353) [PDF]()
 
 ## 2019
 + [**Equilibrium Design for Concurrent Games**](/publication/2019-08-29-concur19). In *Proceedings of the 30th International Conference on Concurrency Theory (CONCUR-2019)*, Amsterdam, the Netherlands, August 2019. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.4230/LIPIcs.CONCUR.2019.22) [PDF](http://drops.dagstuhl.de/opus/volltexte/2019/10924/pdf/LIPIcs-CONCUR-2019-22.pdf)
