@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany, in [Automated Reasoning Group](http://arg.cs.uni-kl.de/en/). I did my DPhil/PhD in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
+I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany, in [Automated Reasoning Group](http://arg.cs.uni-kl.de/en/) with [Anthony Lin](https://anthonywlin.github.io/). I did my DPhil/PhD in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
 
 News
 =====
-+ **16/03/20:** My DPhil/PhD thesis has been deposited in Bodleian Library. Electronic version is available from [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
++ **16/03/20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems]" has been deposited in Bodleian Library. Electronic version is available from [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
 + **09/12/19:** I passed my DPhil/PhD thesis viva voce with minor corrections. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
 
 
