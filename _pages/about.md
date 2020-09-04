@@ -12,7 +12,7 @@ I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/ho
 
 News
 =====
-+ **16/03/20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems]()" has been deposited in Bodleian Library. Electronic version is available from [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
++ **16/03/20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems](valvestate.github.io/files/ociamthesismain.pdf)" has been deposited in Bodleian Library. Electronic version is available from [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
 + **09/12/19:** I passed my DPhil/PhD thesis viva voce with minor corrections. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
 
 
