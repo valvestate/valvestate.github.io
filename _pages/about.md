@@ -24,6 +24,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 Publications
 ======
 ## 2020
++ [**Parameterized Synthesis with Safety Properties**](/publication/aplas20). In *Proceedings of The 18th Asian Symposium on Programming Languages and Systems (APLAS)*, 2020. (Joint work with Oliver Markgraf, Chih-Duo Hong, Anthony W. Lin, and Daniel Neider). [PDF](http://valvestate.github.io/files/aplas20.pdf)
 + [**Automated Temporal Equilibrium Analysis: Verification and Synthesis of Multi-Player Games**](/publication/aij20). In *Artificial Intelligence*, 2020. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.1016/j.artint.2020.103353) [PDF](http://valvestate.github.io/files/aij20.pdf)
 
 ## 2019
