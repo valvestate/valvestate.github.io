@@ -37,5 +37,6 @@ Publications
 
 Talks
 =====
++ [**Equilibrium Design for Concurrent Games**](/talks/sr20). Presented at *8th International Workshop on Strategic Reasoning (Satellite Workshop of ECAI 2020),* September 2020.
 + [**Verifying and Designing Equilibria in Multiagent Systems**](/talks/radical19). Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, The Netherlands, August 2019.
 + [**Some Approaches to Rational Verification in Multiagent Systems**](/talks/radical17). Presented at *1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17)*, Berlin, September 2017
