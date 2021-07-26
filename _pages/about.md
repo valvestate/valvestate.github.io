@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany, in [Automated Reasoning Group](http://arg.cs.uni-kl.de/en/) with [Anthony Lin](https://anthonywlin.github.io/). I did my DPhil/PhD in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
+I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany, in [Automated Reasoning Group](http://arg.cs.uni-kl.de/en/) with [Anthony W. Lin](https://anthonywlin.github.io/). I did my DPhil/PhD in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
 
 News
 =====
@@ -24,7 +24,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 Publications
 ======
 ## 2021
-+ [**Rational Verification for Probabilistic Systems**](/publication/kr21). In *Proceedings of The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021)*, November 2021. (Joint work with Julian Gutierrez, Lewis Hammond, Anthony Lin, and Michael Wooldridge). [PDF](http://valvestate.github.io/files/kr21.pdf)
++ [**Rational Verification for Probabilistic Systems**](/publication/kr21). In *Proceedings of The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021)*, November 2021. (Joint work with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, and Michael Wooldridge). [PDF](http://valvestate.github.io/files/kr21.pdf)
 
 ## 2020
 + [**Parameterized Synthesis with Safety Properties**](/publication/aplas20). In *Proceedings of The 18th Asian Symposium on Programming Languages and Systems (APLAS)*, November 2020. (Joint work with Oliver Markgraf, Chih-Duo Hong, Anthony W. Lin, and Daniel Neider). [DOI](https://doi.org/10.1007/978-3-030-64437-6_14) [PDF](http://valvestate.github.io/files/aplas20.pdf)
