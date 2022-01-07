@@ -12,8 +12,9 @@ I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/ho
 
 News
 =====
-+ **16/03/20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems](http://valvestate.github.io/files/ociamthesismain.pdf)" has been deposited in the Bodleian Library [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
-+ **09/12/19:** I passed my DPhil/PhD thesis viva voce with minor corrections. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
++ **Jan 22:** Our research project *Optimal Decision-Making in Probabilistic Multi-Agent Learning Environment* has been granted for Australia-Germany Joint Research Cooperation Scheme funding by the German Academic Exchange Service (DAAD). (with Prof. Anthony W. Lin, and Dr Julian Gutierrez and Dr Fritz de Nijs (Monash University)).
++ **Mar 20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems](http://valvestate.github.io/files/ociamthesismain.pdf)" has been deposited in the Bodleian Library [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
++ **Dec 19:** I passed my DPhil/PhD thesis viva voce with minor corrections. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
 
 
 Research Interests
