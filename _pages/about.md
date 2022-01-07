@@ -42,9 +42,9 @@ Publications
 
 Talks & Presentations
 =====
-+ [**Examining Games and a Way to Repair Them**](talks/whitemech). Invited talk at *[WhiteMech Group Meetings](https://whitemech.github.io/meetings/), Department of Computer, Control, and Management Engineering, Sapienza University of Rome*, 4th November 2021.
-+ [**Automated Temporal Equilibrium Analysis: Verification and Synthesis of Multi-Player Games**](talks/ijcai21). Presented at *the journal track of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)*, 23rd August 2021.
-+ [**Logic and Games**](talks/logicandgames). Guest lecture in *Logic & Semantics of Programming Languages course (Winter Semester 2020)*, Department of Computer Science, TU Kaiserslautern.
-+ [**Equilibrium Design for Concurrent Games**](/talks/sr20). Presented at *8th International Workshop on Strategic Reasoning (Satellite Workshop of ECAI 2020),* September 2020.
-+ [**Verifying and Designing Equilibria in Multiagent Systems**](/talks/radical19). Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, The Netherlands, August 2019.
-+ [**Some Approaches to Rational Verification in Multiagent Systems**](/talks/radical17). Presented at *1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17)*, Berlin, September 2017
++ [**Examining Games and a Way to Repair Them**](talks/whitemech). Invited talk at *[WhiteMech Group Meetings](https://whitemech.github.io/meetings/), Department of Computer, Control, and Management Engineering, Sapienza University of Rome*, 4th November 2021. [Slides](files/whitemech.pdf)
++ [**Automated Temporal Equilibrium Analysis: Verification and Synthesis of Multi-Player Games**](talks/ijcai21). Presented at *the journal track of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)*, 23rd August 2021. [Videos](https://ijcai-21.org/videos-slides/?video=J101) [Slides](/files/ijcai21.pdf)
++ [**Logic and Games**](talks/logicandgames). Guest lecture in *Logic & Semantics of Programming Languages course (Winter Semester 2020)*, Department of Computer Science, TU Kaiserslautern. [Slides](/files/logicandgames.pdf)
++ [**Equilibrium Design for Concurrent Games**](/talks/sr20). Presented at *8th International Workshop on Strategic Reasoning (Satellite Workshop of ECAI 2020),* September 2020. [Slides](/files/sr20_slides.pdf)
++ [**Verifying and Designing Equilibria in Multiagent Systems**](/talks/radical19). Presented at *2nd International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2019) (co-located with CONCUR’19)*, Amsterdam, The Netherlands, August 2019. [Slides](/files/radical19_slides.pdf)
++ [**Some Approaches to Rational Verification in Multiagent Systems**](/talks/radical17). Presented at *1st International Workshop on Recent Advances in Concurrency and Logic (RADICAL 2017) (co-located with CONCUR’17)*, Berlin, September 2017. [Slides](/files/radical17_slides.pdf)
