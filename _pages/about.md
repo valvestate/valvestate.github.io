@@ -25,7 +25,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 Publications
 ======
 ## 2021
-+ [**Rational Verification for Probabilistic Systems**](/publication/kr21). In *Proceedings of The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021)*, November 2021. (Joint work with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, and Michael Wooldridge). [PDF](http://valvestate.github.io/files/kr21.pdf)
++ [**Rational Verification for Probabilistic Systems**](/publication/kr21). In *Proceedings of The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021)*, November 2021. (Joint work with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, and Michael Wooldridge). [DOI](https://doi.org/10.24963/kr.2021/30) [PDF](http://valvestate.github.io/files/kr21.pdf) [Video](https://youtu.be/KW-JiqeaIvk)
 + [**Rational Verification: Game-Theoretic Verification of Multi-Agent Systems**](/publication/apin21). In *Applied Intelligence*, August 2021. (Joint work with Alessandro Abate, Julian Gutierrez, Lewis Hammond, Paul Harrenstein, Marta Kwiatkowska, Giuseppe Perelli, Thomas Steeples, and Michael Wooldridge). [DOI](https://doi.org/10.1007/s10489-021-02658-y) [PDF](https://link.springer.com/content/pdf/10.1007/s10489-021-02658-y.pdf)
 
 ## 2020
