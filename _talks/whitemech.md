@@ -12,4 +12,4 @@ Classical notion of correctness in formal verification is not appropriate for mu
 
 This talk is a summary of a series of works with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, Giuseppe Perelli, and Mike Wooldridge.
 
-- [Slides](files/whitemech.pdf)
+- [Slides](https://valvestate.github.io/files/whitemech.pdf)
