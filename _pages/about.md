@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at [TU Kaiserslautern](https://www.uni-kl.de/en/home/), Germany, in [Automated Reasoning Group](http://arg.cs.uni-kl.de/en/) with [Anthony W. Lin](https://anthonywlin.github.io/). I did my DPhil/PhD in computer science at the University of Oxford supervised by [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/) and [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/). Before coming to Oxford, I obtained a bachelor's degree in Informatics from [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/), Indonesia, and a master's degree in advanced computer science from the University of Liverpool.
+I'm an assistant professor at Heriot-Watt University, Edinburgh. Before Heriot-watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
 
 News
 =====
++ **Aug 22:** Moved to Heriot-Watt University, Edinburgh.
 + **Jan 22:** Our research project *Optimal Decision-Making in Probabilistic Multi-Agent Learning Environment* has been granted for Australia-Germany Joint Research Cooperation Scheme funding by the German Academic Exchange Service (DAAD). (with Anthony W. Lin, and Julian Gutierrez and Frits de Nijs (Monash University)).
 + **Mar 20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems](http://valvestate.github.io/files/ociamthesismain.pdf)" has been deposited in the Bodleian Library [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
 + **Dec 19:** I passed my DPhil/PhD thesis viva voce. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
@@ -25,7 +26,7 @@ My current research is in the use of formal techniques for verifying and reasoni
 Publications
 ======
 ## 2022
-+ [**On the Complexity of Rational Verification**](/publication/amai22). In *Annals of Mathematics and Artificial Intelligence*, to appear. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [PDF](http://valvestate.github.io/files/amai22.pdf)
++ [**On the Complexity of Rational Verification**](/publication/amai22). In *Annals of Mathematics and Artificial Intelligence*, to appear. (Joint work with Julian Gutierrez, Giuseppe Perelli, and Mike Wooldridge). [DOI](https://doi.org/10.1007/s10472-022-09804-3) [PDF](http://valvestate.github.io/files/amai22.pdf)
 
 ## 2021
 + [**Rational Verification for Probabilistic Systems**](/publication/kr21). In *Proceedings of The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021)*, November 2021. (Joint work with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, and Michael Wooldridge). [DOI](https://doi.org/10.24963/kr.2021/30) [PDF](http://valvestate.github.io/files/kr21.pdf) [Video](https://youtu.be/KW-JiqeaIvk)
