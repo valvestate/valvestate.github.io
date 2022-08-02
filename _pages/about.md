@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor at Heriot-Watt University, Edinburgh. Before Heriot-watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
+I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
 
 News
 =====
