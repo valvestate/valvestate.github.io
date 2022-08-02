@@ -1,12 +1,4 @@
----
-permalink: /
-title: "Short Bio"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I'm an assistant professor at Heriot-Watt University, Edinburgh. Before Heriot-watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
 
