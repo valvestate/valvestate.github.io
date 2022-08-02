@@ -10,6 +10,10 @@ redirect_from:
 
 I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
 
+Research Interests
+======
+My current research is in the use of formal techniques for verifying and reasoning about systems composed of multiple self-interested intelligent agents. It combines approaches from formal verification, logic, automata theory, and game theory. The work is documented on [EVE (Equilibrium Verification Environment) Web](http://eve.cs.ox.ac.uk/).
+
 News
 =====
 + **Aug 22:** Moved to Heriot-Watt University, Edinburgh.
@@ -18,6 +22,4 @@ News
 + **Dec 19:** I passed my DPhil/PhD thesis viva voce. I thank my examiners [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) and [Luke Ong](https://www.cs.ox.ac.uk/people/luke.ong/) for valuable feedback.
 
 
-Research Interests
-======
-My current research is in the use of formal techniques for verifying and reasoning about systems composed of multiple self-interested intelligent agents. It combines approaches from formal verification, logic, automata theory, and game theory. The work is documented on [EVE (Equilibrium Verification Environment) Web](http://eve.cs.ox.ac.uk/).
+
