@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Computational Game Theory Course"
 collection: teaching
-type: "Computational Game Theory Course"
+type: "Teaching Assistant"
 permalink: /teaching/2019-CGT-AIMS
 venue: "EPSRC Centre for Doctoral Training on Autonomous, Intelligent Machines, and Systems (AIMS), University of Oxford"
 date: 2019-01-11
