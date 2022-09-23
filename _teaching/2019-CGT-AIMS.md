@@ -1,5 +1,5 @@
 ---
-title: "Computational Game Theory Course"
+title: "Computational Game Theory"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-CGT-AIMS
