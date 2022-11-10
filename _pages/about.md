@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology.
+I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology. I also have experience in industry as a R&D software engineer at Samsung Electronics, Indonesia.
 
 **Fully-funded PhD opportunities at Heriot-Watt:** I am accepting PhD students who are interested in working with me in my main research areas. Funding available, covers (international) tuition fees and living expenses. Useful link: [PhD opportunities in Computer Science](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/research/phd/phd-oportunities-in-computer-science.htm).
 
