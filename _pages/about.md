@@ -14,11 +14,19 @@ I'm an assistant professor in the [School of Mathematical and Computer Sciences]
 
 Research Interests
 ======
-My current research is in the use of formal techniques for verifying and reasoning about systems composed of multiple self-interested intelligent agents. It combines approaches from formal verification, logic, automata theory, and game theory. The work is documented on [EVE (Equilibrium Verification Environment) Web](http://eve.cs.ox.ac.uk/).
+My current research interests are the combination of three areas: computer science, artificial intelligence, and game theory. I apply formal/mathematical techniques for verifying and reasoning about systems composed of multiple self-interested intelligent agents. In particular, I mainly work on the following topics:
+
++ Logic and game theory in theoretical computer science and foundations of AI.
++ Verification, design, and synthesis of equilibria in concurrent multi-agent systems.
++ Mathematical/computational logic (e.g., modal and temporal logics).
++ Model checking, automated synthesis, and formal verification.
++ Computational complexity of problems related to topics above.
+
+Part of my work is documented on [http://eve.cs.ox.ac.uk](http://eve.cs.ox.ac.uk/index).
 
 Supervision Interests
 ======
-I am interested in supervising PhD/MSc/BSc students. Please see research interests section above.
+I am interested in supervising PhD/MSc/BSc students who want to work on (or related to) topics within my research interests (see Research Interests section above).
 
 News
 =====
