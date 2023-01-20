@@ -22,7 +22,7 @@ My current research interests are the combination of three areas: computer scien
 + Model checking, automated synthesis, and formal verification.
 + Computational complexity of problems related to topics above.
 
-Part of my work is documented on [http://eve.cs.ox.ac.uk](http://eve.cs.ox.ac.uk/index). I am the main developer of [**EVE** (Equilibrium Verification Environment)](https://github.com/eve-mas/eve-parity/), a tool for [*rational verification*](https://link.springer.com/article/10.1007/s10489-021-02658-y). I am always interested in improving EVE (e.g., faster techniques, new use cases, etc.), please do contact me for a possible collaboration.
+Part of my work is documented on [http://eve.cs.ox.ac.uk](http://eve.cs.ox.ac.uk/index). I am the main developer of [**EVE** (Equilibrium Verification Environment)](https://github.com/eve-mas/eve-parity/), a tool for [*rational verification*](https://link.springer.com/article/10.1007/s10489-021-02658-y). I am always interested in improving EVE (e.g., faster techniques, new use cases, etc.), please do contact me for a potential collaboration.
 
 Supervision Interests
 ======
