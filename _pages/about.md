@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at TU Kaiserslautern, Germany. I hold a DPhil/PhD from the University of Oxford, an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology. I also have experience in industry as a R&D software engineer at Samsung Electronics, Indonesia.
+I'm an assistant professor in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University, Edinburgh. Before Heriot-Watt, I was a postdoctoral researcher at [TU Kaiserslautern](https://arg.cs.uni-kl.de/en/gruppe/najib/), Germany. I hold a [DPhil/PhD from the University of Oxford](https://www.cs.ox.ac.uk/people/muhammad.najib/), an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology. I also have experience in industry as a R&D software engineer at Samsung Electronics, Indonesia.
 
 **Fully-funded PhD opportunities at Heriot-Watt:** I am accepting PhD students who are interested in working with me in my main research areas. Funding available, covers (international) tuition fees and living expenses. Useful link: [PhD opportunities in Computer Science](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/research/phd/phd-oportunities-in-computer-science.htm).
 
@@ -22,7 +22,7 @@ My current research interests are the combination of three areas: computer scien
 + Model checking, automated synthesis, and formal verification.
 + Computational complexity of problems related to topics above.
 
-Part of my work is documented on [http://eve.cs.ox.ac.uk](http://eve.cs.ox.ac.uk/index).
+Part of my work is documented on [http://eve.cs.ox.ac.uk](http://eve.cs.ox.ac.uk/index). I am the main developer of [**EVE** (Equilibrium Verification Environment)](https://github.com/eve-mas/eve-parity/), a tool for [*rational verification*](https://link.springer.com/article/10.1007/s10489-021-02658-y). I am always interested in improving EVE (e.g., faster techniques, new use cases, etc.), please do contact me for a possible collaboration.
 
 Supervision Interests
 ======
