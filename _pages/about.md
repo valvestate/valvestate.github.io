@@ -26,7 +26,7 @@ I am the main developer of [**EVE** (Equilibrium Verification Environment)](http
 
 Supervision Interests
 ======
-I am interested in supervising PhD/MSc/BSc students who want to work on (or related to) topics within my research interests (see Research Interests section above).
+I am interested in supervising PhD/MSc/BSc students who want to work on (or related to) topics within my research interests (see Research Interests section above). If you have a potential project in mind, feel free to drop me an email to discuss further.
 
 News
 =====
