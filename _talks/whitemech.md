@@ -9,7 +9,4 @@ location: ""
 ---
 
 Classical notion of correctness in formal verification is not appropriate for multi-agent systems–it does not capture the strategic behaviour of rational agents. As such, a different concept of correctness was proposed in rational verification. In proving such a correctness, we turn multi-agent systems into multi-player games and use game-theoretic techniques to analyse the games. In our works, we study various kinds of games with various goals and settings, and provide an algorithmic techniques to solve problems related to rational verification. We also propose a method to “repair” games should we find them “broken”.
-
-This talk is a summary of a series of works with Julian Gutierrez, Lewis Hammond, Anthony W. Lin, Giuseppe Perelli, and Mike Wooldridge.
-
-- [Slides](https://valvestate.github.io/files/whitemech.pdf)
+[Slides](https://valvestate.github.io/files/whitemech.pdf)
