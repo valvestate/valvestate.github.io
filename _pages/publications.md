@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+  You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=a_49dn0AAAAJ&hl=en}">my Google Scholar </a></u> and <u><a href="{https://dblp.uni-trier.de/pid/227/1165.html}"> DBLP pages</a></u>
+
 
 
 {% include base_path %}
