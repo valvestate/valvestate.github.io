@@ -32,6 +32,7 @@ I am interested in supervising PhD/MSc/BSc students who want to work on (or rela
 
 News
 =====
++ **Jan 24:** I am visiting [Julian Gutierrez](https://research.monash.edu/en/persons/julian-gutierrez-santiago) at Monash until 9 Feb.
 + **Aug 22:** Joined Heriot-Watt University, Edinburgh, as an assistant professor.
 + **Jan 22:** Our research project *Optimal Decision-Making in Probabilistic Multi-Agent Learning Environment* has been granted for Australia-Germany Joint Research Cooperation Scheme funding by the German Academic Exchange Service (DAAD). (with Anthony W. Lin, and Julian Gutierrez and Frits de Nijs (Monash University)).
 + **Mar 20:** My DPhil/PhD thesis "[Rational verification in multi-agent systems](http://valvestate.github.io/files/ociamthesismain.pdf)" has been deposited in the Bodleian Library [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:6331464c-c483-48b8-b030-58e431047614).
