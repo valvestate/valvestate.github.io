@@ -3,7 +3,7 @@ title: "Examining Games and a Way to Repair Them"
 collection: talks
 type: "Talk"
 permalink: /talks/whitemech
-venue: "Invited talk at *WhiteMech Group Meetings, Department of Computer, Control, and Management Engineering, Sapienza University of Rome"
+venue: "WhiteMech Group Meetings, Department of Computer, Control, and Management Engineering, Sapienza University of Rome"
 date: 2021-11-04
 location: ""
 ---
