@@ -7,3 +7,4 @@ venue: "Invited talk at the Department of Computing Science, University of Aberd
 date: 2024-04-17
 location: ""
 ---
+[Slides](https://valvestate.github.io/files/aberdeen23.pdf)
