@@ -50,9 +50,9 @@ Logic, Logic and Computation, Information and Computation
 
 ### Funding
 
-+ The German Academic Exchange Service (DAAD) (€ 23,696,-) (Jan 2022– Dec 2023)<br>
++ The German Academic Exchange Service (DAAD) (Jan 2022– Dec 2023)<br>
 *Optimal Decision-Making in Probabilistic Multi-Agent Learning Environment*<br>
-with Anthony W. Lin (TU Kaiserslautern), Julian Gutierrez, and Fritz de Nijs ( Monash University)
+with Anthony W. Lin (TU Kaiserslautern), Julian Gutierrez, and Frits de Nijs ( Monash University)
 
 ### Research Visits
 
