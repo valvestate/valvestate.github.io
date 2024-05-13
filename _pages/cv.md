@@ -54,6 +54,10 @@ Logic, Logic and Computation, Information and Computation
 *Optimal Decision-Making in Probabilistic Multi-Agent Learning Environment*<br>
 with Anthony W. Lin (TU Kaiserslautern), Julian Gutierrez, and Frits de Nijs ( Monash University)
 
+### Supervision (PhD only)
+
++ (Kokulan Thangasuthan)[https://www.edinburgh-robotics.org/students/kokulan-thangasuthan] (Sep 2023 - Present)
+
 ### Research Visits
 
 + Visiting Giuseppe Perelli at Sapienza University of Rome, Italy (Feb 2024-Mar 2024)
