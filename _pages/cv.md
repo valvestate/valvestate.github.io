@@ -56,7 +56,7 @@ with Anthony W. Lin (TU Kaiserslautern), Julian Gutierrez, and Frits de Nijs ( M
 
 ### Supervision (PhD only)
 
-+ (Kokulan Thangasuthan)[https://www.edinburgh-robotics.org/students/kokulan-thangasuthan] (Sep 2023 - Present)
++ [Kokulan Thangasuthan](https://www.edinburgh-robotics.org/students/kokulan-thangasuthan) (Sep 2023 - Present)
 
 ### Research Visits
 
