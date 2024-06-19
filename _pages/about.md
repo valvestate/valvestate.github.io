@@ -31,6 +31,7 @@ I am interested in supervising PhD/MSc/BSc students who want to work on (or rela
 
 News
 =====
++ **Jun 24:** I will be presenting a tutorial on Game-Theoretic Verification of Multi-Agent Systems at [the 24th European Agent Systems Summer School (EASSS 2024)](https://euramas.github.io/easss2024/#) in Dublin, August 2024.
 + **May 24:** Paper accepted for [IJCAI'24](https://ijcai24.org/).
 + **Feb 24:** I will be attending CSL'24 to present [this paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2024.32), and then visiting [Giuseppe Perelli](https://giuseppeperelli.github.io/) at Sapienza Rome until 9 March.
 + **Jan 24:** I am visiting [Julian Gutierrez](https://research.monash.edu/en/persons/julian-gutierrez-santiago) at Monash until 9 Feb.
