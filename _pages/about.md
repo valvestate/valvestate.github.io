@@ -13,6 +13,8 @@ I'm an Assistant Professor (or Lecturer in the [traditional UK system](https://e
 
 **Fully-funded PhD opportunities at Heriot-Watt:** I am currently accepting applications from PhD students who are interested in working with me in my main research areas. Funding is available to cover both international tuition fees and living expenses. For more information, please visit the [PhD opportunities in Computer Science](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/research/phd/phd-oportunities-in-computer-science.htm) page. If you have a potential project in mind, feel free to drop me an email to discuss further. I look forward to hearing from you!
 
+The Edinburgh Centre for Robotics, where [I am a member of the supervisory team](https://www.edinburgh-robotics.org/academics/najib-muhammad), is now accepting applications for the September 2024 cohort. This is for the UKRI AI Centre for Doctoral Training in Dependable and Deployable AI for Robotics (CDT-D2AIR), a 4-year PhD programme jointly offered by Heriot-Watt University and the University of Edinburgh. You can find application information [here](https://www.edinburgh-robotics.org/apply).
+
 Research Interests
 ======
 My research interests lie at the intersection of computer science, artificial intelligence, and game theory. I use formal and mathematical techniques to verify and reason about systems composed of multiple self-interested intelligent agents. In particular, I mainly work on the following topics:
