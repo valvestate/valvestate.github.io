@@ -25,6 +25,11 @@ Department of Computer Science, TU Kaiserslautern, Germany<br>
 + <span>*R&D Software Engineer*</span> (Oct 2011–July 2014)<br>
  Samsung Electronics Indonesia<br>
 
+### External Position
+
++ <span>*Associate Member*</span> (Dec 2023-Present)<br>
+Department of Computer Science, University of Oxford, UK<br>
+
 ### Education
 
 + <span>*Doctor of Philosophy*</span>, Computer Science<br>
