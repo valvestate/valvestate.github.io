@@ -47,8 +47,7 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 + Reviewing:
    - Conferences: FSTTCS'23, KR'23, TACAS'22, CSL'22, AAMAS'21, ICALP'21, FoSSaCS'21,
 LATIN'18, CONCUR'16
-   - Journals: Artificial Intelligence, Logical Methods in Computers Science, Transactions on Computational
-Logic, Logic and Computation, Information and Computation
+   - Journals: [Artificial Intelligence](https://aij.ijcai.org/), [Logical Methods in Computer Science](https://lmcs.episciences.org/), [Transactions on Computational Logic](https://dl.acm.org/journal/tocl), [Logic and Computation](https://academic.oup.com/logcom), [Information and Computation](https://www.sciencedirect.com/journal/information-and-computation)
 + Other:
   - Deputy Programme Director MSc Artificial Intelligence (Heriot-Watt University, Sep 2023–present)
  
