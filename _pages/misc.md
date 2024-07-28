@@ -8,4 +8,4 @@ I enjoy playing and listening to (and watching) music (performances). I play sev
 
 Jimi Hendrix, B.B. King, John Petrucci, Julian Lage, Kirk Fletcher, Tom Misch, John Mayer, Ted Greene, Gary Moore, David Gilmour, Jeff Beck, Chris Cain, Joey Landreth, Chris Buck, Mateus Asato, George Harrison, Molly Miller, Nick Johnston, ...
 
-I also enjoy playing and watching football (the kind where you actually play a *ball* with your *feet*). I support Liverpool FC.
+I also enjoy playing and watching football (the kind where you play a *ball* with *feet*). I support Liverpool FC.
