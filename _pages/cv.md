@@ -49,7 +49,8 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 LATIN'18, CONCUR'16
    - Journals: [Artificial Intelligence](https://aij.ijcai.org/), [Logical Methods in Computer Science](https://lmcs.episciences.org/), [Transactions on Computational Logic](https://dl.acm.org/journal/tocl), [Logic and Computation](https://academic.oup.com/logcom), [Information and Computation](https://www.sciencedirect.com/journal/information-and-computation)
 + Other:
-  - Deputy Programme Director MSc Artificial Intelligence (Heriot-Watt University, Sep 2023–present)
+  - Programme Director MSc Artificial Intelligence (Heriot-Watt University, Sep 2024–present)
+  - Deputy Programme Director MSc Artificial Intelligence (Heriot-Watt University, Sep 2023–Sep 2024)
  
 
 ### Funding
