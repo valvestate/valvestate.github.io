@@ -14,4 +14,4 @@ I also enjoy playing and watching football (the kind where you play a *ball* wit
 ## My...
 - Erdős number is at most 4: Paul Erdős -> Noga Alon -> Moshe Tennenholtz -> Mike Wooldridge -> M.N.
 - Turing number is at most 5: Alan Turing -> Robin Gandy -> Dana Scott -> Prakash Panangaden -> Marta Kwiatkowska -> M.N.
-- [Mathematics Genealogy ID is 261112](https://genealogy.math.ndsu.nodak.edu/id.php?id=261112). See my maths genealogy tree [here](https://valvestate.github.io/images/math_gen.png).
+- [Mathematics Genealogy ID is 261112](https://genealogy.math.ndsu.nodak.edu/id.php?id=261112). See my maths genealogy DAG [here](https://valvestate.github.io/images/math_gen.png).
