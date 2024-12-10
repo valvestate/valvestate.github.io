@@ -34,6 +34,7 @@ I am interested in supervising PhD/MSc/BSc students who want to work on (or rela
 
 News
 =====
++ **Dec 24:** Paper accepted for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/), preprint [here](https://arxiv.org/abs/2411.00146).
 + **Nov 24:** Paper accepted at [LMCS journal](https://en.wikipedia.org/wiki/Logical_Methods_in_Computer_Science), preprint [here](https://arxiv.org/abs/2306.03045).
 + **Jul 24:** Paper accepted for [ECAI'24](https://www.ecai2024.eu/), pdf [here](https://ebooks.iospress.nl/doi/10.3233/FAIA240807).
 + **Jun 24:** I will be presenting a tutorial on [Game-Theoretic Verification of Multi-Agent Systems](https://valvestate.github.io/talks/easss24) at [the 24th European Agent Systems Summer School (EASSS 2024)](https://euramas.github.io/easss2024/#) in Dublin, August 2024.
