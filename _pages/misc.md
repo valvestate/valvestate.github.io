@@ -4,10 +4,23 @@ title: "..."
 author_profile: true
 ---
 
-## When I am not doing research, or teaching...
+## Music
 I enjoy playing and listening to (and watching) music (performances). I play several musical instruments, but I am most comfortable with the electric guitar. Here is a (not complete) list of some of my most influential (and favourite) players, in no particular order:
 
 Jimi Hendrix, B.B. King, John Petrucci, Julian Lage, Paul Gilbert, Kirk Fletcher, Tom Misch, John Mayer, Ted Greene, Gary Moore, David Gilmour, Jeff Beck, Chris Cain, Joey Landreth, Chris Buck, Mateus Asato, George Harrison, Molly Miller, Nick Johnston, ...
+
+### Recording
+As a (mostly) bedroom/livingroom guitarist, I occasionally dabble in recording. I use a mix of tools: Ableton with BIAS FX Amp, BIAS FX Amp with Direct Aux, or just my phone recording from my amps and pedals.
+Here are some of my YouTube uploads:
+
++ Jimi Hendrix is a big influence on me, and "Little Wing" was one of the first songs that got me hooked on guitar. Here's my take on that famous intro: [video](https://youtu.be/1K_OsD4IPNE?si=6zC10d99iaf13hU2)
++ I stumbled upon a video of someone playing Debussy's "Clair de Lune" on a vintage Gibson SG on YouTube, and I was *IMPRESSED*. Decided to give a shot myself; no, I don't have a 60's SG: [video](https://youtu.be/1vxT4CGZEHY?si=dV5s664Lpk94Mb5V)
++ It was a sunny Sunday afternoon at the end of summer, and had a random jam session inspired by one of John Mayer's songs: [video](https://youtu.be/yc5AGrw-oeU?si=EIUOlLk27rQHxxK0)
++ Neo-soul saw a resurgence in popularity around 2020, most likely (partly) due to TikTok and guitarists posting short video performances. Kazuki Isogai is one of those modern social-media guitarists who likes to post. Here I am playing one of his compositions: [video](https://youtu.be/ifxJefG_nGU?si=_SQTgDqq4C9sn4TI)
+
+
+  
+## Sport
 
 I also enjoy playing and watching football (the kind where you play a *ball* with *feet*). I support Liverpool FC.
 
