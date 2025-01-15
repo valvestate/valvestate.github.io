@@ -18,7 +18,7 @@ The Edinburgh Centre for Robotics, where [I am a member of the supervisory team]
 
 Research Interests
 ======
-I am interested in ensuring the safety of AI systems (see [AI safety](https://en.wikipedia.org/wiki/AI_safety)). My work focuses on using formal and mathematical methods to understand and verify the behavior of AI systems, especially those involving multiple autonomous AI agents (see [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system)). I draw on techniques from formal verification, logic, and game theory. Here are the main areas I work on:
+I am interested in ensuring the safety of AI systems (see [AI safety](https://en.wikipedia.org/wiki/AI_safety)). My work focuses on using formal and mathematical methods to understand and verify the behaviour of AI systems, especially those involving multiple autonomous AI agents (see [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system)). I draw on techniques from formal verification, logic, and game theory. Here are the main areas I work on:
 
 + Logic and game theory in theoretical computer science and foundations of AI.
 + Verification, design, and synthesis of equilibria in concurrent multi-agent systems.
