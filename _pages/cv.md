@@ -43,7 +43,7 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 
 ### Services
 
-+ PC Duties: IJCAI'25, AAAI'25, ECAI'24, IJCAI'24, AAAI'24, IJCAI'23, AAAI'23, IJCAI'22, IJCAI'21
++ PC Duties: AAMAS'25, IJCAI'25, AAAI'25, ECAI'24, IJCAI'24, AAAI'24, IJCAI'23, AAAI'23, IJCAI'22, IJCAI'21
 + Organisation: [RADICAL'25](https://sites.google.com/site/radicalconcur/) (Co-chair)
 + Reviewing:
    - Conferences: FSTTCS'23, KR'23, TACAS'22, CSL'22, AAMAS'21, ICALP'21, FoSSaCS'21,
