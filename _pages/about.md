@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Re my name**: Family and friends call me *Najib*. As an Indonesian, where [most people lack family names](https://en.wikipedia.org/wiki/Indonesian_names#Indonesian_naming_traditions), both of my names are given. Feel free to use either :relaxed:
+**Re my name**: Family and friends call me *Najib*. As an Indonesian, where [most people lack family names](https://en.wikipedia.org/wiki/Indonesian_names#Indonesian_naming_traditions), both of my names are given. Feel free to use either :-)
 
 I'm an Assistant Professor (or Lecturer in the [traditional UK system](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom#Comparison)) in the [School of Mathematical and Computer Sciences](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) at Heriot-Watt University in Edinburgh. Additionally, I am an [Associate Member of the Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/people/muhammad.najib/). Prior to joining Heriot-Watt, I worked as a postdoctoral researcher with [Anthony Lin](https://anthonywlin.github.io/) at [TU Kaiserslautern](https://arg.cs.uni-kl.de/en/gruppe/najib/) in Germany. I hold a [DPhil/PhD from the University of Oxford](https://valvestate.github.io/files/ociamthesismain.pdf) (supervised by [Julian Gutierrez](https://www.cs.ox.ac.uk/people/julian.gutierrez/) and [Mike Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/)), an MSc from the University of Liverpool, and a BSc from Sepuluh Nopember Institute of Technology. I also have industry experience as a R&D software engineer at Samsung Electronics.
 
