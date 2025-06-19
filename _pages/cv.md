@@ -45,10 +45,10 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 
 
 + **Programme Committee Duties**:
-  - **European Conference on Artificial Intelligence (ECAI)**: 2025, 2024  
-  - **International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**: 2025  
-  - **International Joint Conference on Artificial Intelligence (IJCAI)**: 2025, 2024, 2023, 2022, 2021  
-  - **AAAI Conference on Artificial Intelligence (AAAI)**: 2025, 2024, 2023
+  - **ECAI**: 2025, 2024
+  - **AAMAS**: 2025
+  - **IJCAI**: 2025, 2024, 2023, 2022, 2021
+  - **AAAI**: 2025, 2024, 2023
 
 + **Organisation**: [RADICAL'25](https://sites.google.com/site/radicalconcur/) (Co-chair)
 + **Reviewing**:
