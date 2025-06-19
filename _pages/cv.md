@@ -43,7 +43,13 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 
 ### Services
 
-+ **PC Duties**: AAMAS'25, IJCAI'25, AAAI'25, ECAI'24, IJCAI'24, AAAI'24, IJCAI'23, AAAI'23, IJCAI'22, IJCAI'21
+
++ **Programme Committee Duties**:
+  - **European Conference on Artificial Intelligence (ECAI)**: 2025, 2024  
+  - **International Conference on Autonomous Agents and Multiagent Systems (AAMAS)**: 2025  
+  - **International Joint Conference on Artificial Intelligence (IJCAI)**: 2025, 2024, 2023, 2022, 2021  
+  - **AAAI Conference on Artificial Intelligence (AAAI)**: 2025, 2024, 2023
+
 + **Organisation**: [RADICAL'25](https://sites.google.com/site/radicalconcur/) (Co-chair)
 + **Reviewing**:
    - Conferences: FSTTCS'23, KR'23, TACAS'22, CSL'22, AAMAS'21, ICALP'21, FoSSaCS'21,
