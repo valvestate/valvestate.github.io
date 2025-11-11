@@ -47,11 +47,12 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
   - Topic Editor for Frontiers in Computer Science research topic: [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making)
 + **Programme Committee Duties**:
   - **ECAI**: 2025, 2024
-  - **AAMAS**: 2025
+  - **AAMAS**: 2026, 2025
   - **IJCAI**: 2025, 2024, 2023, 2022, 2021
-  - **AAAI**: 2025, 2024, 2023
+  - **AAAI**: 2026, 2025, 2024, 2023
 
-+ **Organisation**: [RADICAL'25](https://sites.google.com/site/radicalconcur/) (Co-chair)
++ **Organisation**:
+  - [RADICAL'25](https://sites.google.com/site/radicalconcur/) (Co-chair)
 + **Reviewing**:
    - Conferences: FSTTCS'23, KR'23, TACAS'22, CSL'22, AAMAS'21, ICALP'21, FoSSaCS'21,
 LATIN'18, CONCUR'16
