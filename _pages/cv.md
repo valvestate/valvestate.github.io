@@ -43,7 +43,8 @@ Sepuluh Nopember Institute of Technology, Indonesia<br>
 
 ### Services
 
-
++ **Editorship**:
+  - Topic Editor for Frontiers in Computer Science research topic: [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making)
 + **Programme Committee Duties**:
   - **ECAI**: 2025, 2024
   - **AAMAS**: 2025
