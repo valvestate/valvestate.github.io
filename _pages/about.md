@@ -34,7 +34,8 @@ I am interested in supervising PhD/MSc/BSc students who want to work on (or rela
 
 News
 =====
-+ **Mar 25:** I am co-chairing (with [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)) the [RADICAL 2025](https://sites.google.com/site/radicalconcur) workshop, part of [CONFEST 2025](https://conferences.au.dk/confest2025) in Aarhus.
++ **April 26:** I am co-chairing [RADICAL 2026](https://sites.google.com/site/radicalconcur) workshop (part of [CONFEST 2026](https://confest-2026.github.io/)); please consider submitting a talk proposal, and hope to see you in Liverpool :-)
++ **Mar 25:** I am co-chairing (with [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)) the [RADICAL 2025](https://sites.google.com/site/radicalconcur/previous-editions/radical-2025) workshop, part of [CONFEST 2025](https://conferences.au.dk/confest2025) in Aarhus.
 + **Dec 24:** Paper accepted for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/), preprint [here](https://arxiv.org/abs/2411.00146).
 + **Nov 24:** Paper accepted at [LMCS journal](https://en.wikipedia.org/wiki/Logical_Methods_in_Computer_Science), preprint [here](https://arxiv.org/abs/2306.03045).
 + **Jul 24:** Paper accepted for [ECAI'24](https://www.ecai2024.eu/), pdf [here](https://ebooks.iospress.nl/doi/10.3233/FAIA240807).
