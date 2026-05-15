@@ -34,6 +34,7 @@ I am interested in supervising PhD/MSc/BSc students who want to work on (or rela
 
 News
 =====
++ **May 26:** Paper accepted for [IJCAI'26](https://2026.ijcai.org/), preprint [here](https://arxiv.org/abs/2605.13077).
 + **April 26:** I am co-chairing [RADICAL 2026](https://sites.google.com/site/radicalconcur) workshop (part of [CONFEST 2026](https://confest-2026.github.io/)); please consider submitting a talk proposal, and hope to see you in Liverpool :-)
 + **Mar 25:** I am co-chairing (with [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)) the [RADICAL 2025](https://sites.google.com/site/radicalconcur/previous-editions/radical-2025) workshop, part of [CONFEST 2025](https://conferences.au.dk/confest2025) in Aarhus.
 + **Dec 24:** Paper accepted for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/), preprint [here](https://arxiv.org/abs/2411.00146).
