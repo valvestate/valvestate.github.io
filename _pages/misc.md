@@ -13,11 +13,17 @@ Jimi Hendrix, B.B. King, John Petrucci, Julian Lage, Paul Gilbert, Kirk Fletcher
 As a (mostly) bedroom/livingroom guitarist, I occasionally dabble in recording. I use a mix of tools: Ableton Live with BIAS FX Amp, BIAS FX Amp with Direct Aux, or just my phone recording from my amps and pedals.
 Here are some of my YouTube uploads:
 
-+ Jimi Hendrix is a big influence on me, and "Little Wing" was one of the first songs that got me hooked on guitar. Here's my take on that famous intro: [video](https://youtu.be/1K_OsD4IPNE?si=6zC10d99iaf13hU2)
-+ I stumbled upon a video of someone playing Debussy's "Clair de Lune" on a vintage Gibson SG on YouTube, and I was *IMPRESSED*. Decided to give a shot myself; no, I don't have a 60's SG: [video](https://youtu.be/1vxT4CGZEHY?si=dV5s664Lpk94Mb5V)
++ Jimi Hendrix is a big influence on me, and "Little Wing" was one of the first songs that got me hooked on guitar [video](https://youtu.be/1K_OsD4IPNE?si=6zC10d99iaf13hU2)
++ I stumbled upon a video of someone playing Debussy's "Clair de Lune" on a vintage Gibson SG on YouTube, and was *IMPRESSED*. Decided to give a shot myself; no, I don't have a 60's SG: [video](https://youtu.be/1vxT4CGZEHY?si=dV5s664Lpk94Mb5V)
 + It was a sunny Sunday afternoon at the end of summer, and had a random jam session inspired by one of John Mayer's songs: [video](https://youtu.be/yc5AGrw-oeU?si=EIUOlLk27rQHxxK0)
-+ Neo-soul saw a resurgence in popularity around 2020, most likely (partly) due to TikTok and guitarists posting short video performances. Kazuki Isogai is one of those modern social-media guitarists who likes to post. Here I am playing one of his compositions: [video](https://youtu.be/ifxJefG_nGU?si=_SQTgDqq4C9sn4TI)
-+ The Telecaster is such a versatile guitar. From jazz a la Ted Greene, Julian Lage,... to rock, it can handle it all. Here's a snippet of me playing Hendrix's "Foxey Lady" on my 2013 American Standard Tele. Bought it for €850 from a little music shop in Figeac, France: [video](https://youtu.be/EEC9TR5ynqA?si=qfXs8mjStnLjuS62)
++ Neo-soul had a bit of a resurgence around 2020, partly thanks to social media guitarists posting short performances. Kazuki Isogai is one of them. Here's me playing one of his compositions: [video](https://youtu.be/ifxJefG_nGU?si=_SQTgDqq4C9sn4TI)
++ Foxey Lady: [video](https://youtu.be/EEC9TR5ynqA?si=qfXs8mjStnLjuS62)
++ Another Kazuki Isogai's [video](https://youtu.be/jRHxfPUSqsE)
++ Yet another Kazuki's [video](https://youtu.be/nROIJvmu4s4)
++ Hey Joe solo [video](https://youtu.be/24N2juWZwUY)
++ Rough Mayer's Bold as Love (video)[https://youtu.be/kKMRkscSXK0]
++ Sleepwalk, somehow halfway Jeff Beck style (video)[https://youtu.be/bebIONcQQTM]
++ Lazy blues jam in C (vdeio)[https://youtu.be/sFPc1UfqHfo]
 
 
   
