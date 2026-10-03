@@ -21,9 +21,9 @@ Here are some of my YouTube uploads:
 + Another Kazuki Isogai's [video](https://youtu.be/jRHxfPUSqsE)
 + Yet another Kazuki's [video](https://youtu.be/nROIJvmu4s4)
 + Hey Joe solo [video](https://youtu.be/24N2juWZwUY)
-+ Rough Mayer's Bold as Love (video)[https://youtu.be/kKMRkscSXK0]
-+ Sleepwalk, somehow halfway Jeff Beck style (video)[https://youtu.be/bebIONcQQTM]
-+ Lazy blues jam in C (vdeio)[https://youtu.be/sFPc1UfqHfo]
++ Rough Mayer's Bold as Love [video](https://youtu.be/kKMRkscSXK0)
++ Sleepwalk, somehow halfway Jeff Beck style [video](https://youtu.be/bebIONcQQTM)
++ Lazy blues jam in C [vdeio](https://youtu.be/sFPc1UfqHfo)
 
 
   
